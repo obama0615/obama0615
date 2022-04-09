@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @obama0615
 - 👀 I’m interested in developing and programming
-- 🌱 I’m currently learning C#, C++, Java and Linux. Completed my study of python.
+- 🌱 I’m currently learning C#, C++, Java and Linux.
 - 📫 How to reach me, obama#0615 on discord.
 
 <!---
